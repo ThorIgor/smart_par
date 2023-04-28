@@ -6,7 +6,7 @@
 
 input has to be csv, and contains column 'content'
 
-output will be csv file with two columns 'Par doc'(paragraphed docs) and 'Raw doc'(input document)
+output will be csv file with two columns 'Par doc'(paragraphed docs) and 'Raw doc'(input docs)
 
 # Requirements
 
