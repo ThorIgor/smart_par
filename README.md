@@ -1,7 +1,7 @@
 # Usage
 
 ```
-  python main.py {input_path} {output path} {num_of_docs_to_process}
+  python main.py {input_path} {output path}
 ```
 
 input has to be csv, and contains column 'content'
