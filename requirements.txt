@@ -1,0 +1,11 @@
+logging
+tqdm 
+numpy 
+pandas 
+typer 
+torch 
+transformers 
+spacy 
+sklearn 
+scipy
+sentence_transformers
