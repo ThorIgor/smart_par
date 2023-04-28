@@ -7,3 +7,9 @@ Usage
 input has to be csv, and contains column 'content'
 
 output will be csv file with two columns 'Par doc'(paragraphed docs) and 'Raw doc'(input document)
+
+Requirements
+
+```
+  pip install -r requirements.txt
+```
